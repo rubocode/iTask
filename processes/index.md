@@ -2,6 +2,7 @@
 
 ## Processes
 
+* [Capture](capture)
 * [Classification](classification)
 * [Planning](planning)
 * [Tracking](tracking)
