@@ -4,7 +4,7 @@
 ![iTask](photos/brain.png)
 
 ## iTask™
-> Intelligent Task Management
+> Intelligent Task Management™ 
 
 * [Concepts](concepts)
 * [Processes](processes)
