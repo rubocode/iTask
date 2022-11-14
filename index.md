@@ -9,3 +9,4 @@
 * [Concepts](concepts)
 * [Processes](processes)
 * [Tools](tools)
+* [Wisdom](wisdom)

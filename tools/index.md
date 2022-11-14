@@ -6,3 +6,4 @@
 * [Calendar](calendar)
 * [Notes](notes)
 * [Kanban](kanban)
+* [Integration](integration)
