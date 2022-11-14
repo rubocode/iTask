@@ -7,5 +7,5 @@
 > Intelligent Task Management
 
 * [Concepts](concepts)
-* [Process](process)
+* [Processes](processes)
 * [Tools](tools)
