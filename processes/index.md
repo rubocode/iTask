@@ -1,6 +1,6 @@
 > [home](../)
 
-## Process
+## Processes
 
 * [Classification](classification)
 * [Planning](planning)
