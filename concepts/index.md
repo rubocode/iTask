@@ -6,5 +6,5 @@
 | [Task](task) | [Category](category) | [Sequence](sequence) | [Reminder](reminder)	|
 | [Outcome](outcome)	| [List](list) | [Runway](runway) | [Alarm](alarm) |
 | [Effort](effort) | [Tag](tag) | [Deadline](deadline)	|	|
-| [Value](value) | | [Begin](begin) | |
+| [Value](value) | [Flag](flag) | [Begin](begin) | |
 | |	| [End](end) | |
