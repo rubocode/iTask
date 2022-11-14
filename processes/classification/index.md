@@ -1,3 +1,3 @@
-> [process](../)
+> [processes](../)
 
 ## Classification
