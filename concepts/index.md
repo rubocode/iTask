@@ -7,4 +7,4 @@
 | [Outcome](outcome)	| [List](list) | [Runway](runway) | [Alarm](alarm) |
 | [Effort](effort) | [Flag](flag) | [Deadline](deadline) ||
 | [Value](value) | [Tag](tag) | [Begin](begin) ||
-| [Note](note) || [End](end) ||
+| [Note](note) | [Folder](folder) | [End](end) ||
