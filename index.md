@@ -10,6 +10,5 @@
 * [Concepts](concepts)
 * [Processes](processes)
 * [Tools](tools)
-* [Techniques](techniques)
 * [Strategies](strategies)
 
