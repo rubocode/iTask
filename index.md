@@ -4,8 +4,12 @@
 ![banner](/iTask/photos/banner.png)
 
 ## iTask™
+
 > Intelligent Task Management™ 
 
-| [Concepts](concepts) | [Processes](processes) | [Tools](tools) |
-| [Techniques](techniques) | [Wisdom](wisdom) | [Strategies](strategies) |
+* [Concepts](concepts)
+* [Processes](processes)
+* [Tools](tools)
+* [Techniques](techniques)
+* [Strategies](strategies)
 
