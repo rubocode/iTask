@@ -5,7 +5,7 @@
 ## Tools
 
 * [Reminders](reminders)
-* [Calendar](calendar)
+* [Calendars](calendars)
 * [Notes](notes)
 * [Kanban](kanban)
 

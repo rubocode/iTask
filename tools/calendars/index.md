@@ -2,7 +2,7 @@
 
 ![banner](/iTask/photos/banner.png)
 
-## Calendar
+## Calendars
 
 * A calendar is a list of events.
 * An event can be repeated with a periodicity.
