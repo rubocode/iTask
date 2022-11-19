@@ -4,6 +4,6 @@
 
 ## Classes
 
-* [Category](category)
-* [Tag](tag)
-* [Flag](flag)
+* [Category](categories)
+* [Flags](flags)
+* [Tags](tags)
