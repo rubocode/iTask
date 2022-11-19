@@ -8,7 +8,7 @@
 > Intelligent Task Management™ 
 
 * [Concepts](concepts)
-* [Processes](processes)
 * [Tools](tools)
+* [Activity](activity)
 * [Strategies](strategies)
 
