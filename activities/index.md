@@ -2,7 +2,7 @@
 
 ![banner](/iTask/photos/banner.png)
 
-## Activity
+## Activities
 
 * [Capture](capture)
 * [Classify](classify)
