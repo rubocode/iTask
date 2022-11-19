@@ -1,4 +1,4 @@
-> [organization](../)
+> [activity](../)
 
 ![banner](/iTask/photos/banner.png)
 
@@ -10,6 +10,6 @@ I am a consultant and most of my task management is personal.  I use the **Thing
 
 I sometimes miss the lack of Kanban like task movement.  There are other tools which combine both GTD and Kanban — but does not meet the simplicity, elegance and sophistication criteria up to expectations.
 
-Many organization use Kanban for collaboration.  **Trello**, originally build by **Joel Spolsky** was acquired by **Atlassian** who have a much heavier engine in **Jira**.
+Many organization use Kanban for collaboration.  **Trello**, originally build by **Joel Spolsky** was acquired by **Atlassian** who have a much heavier enterprise Kanban app called **Jira**.
 
 My current needs are nicely met by Things.
