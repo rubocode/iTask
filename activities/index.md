@@ -2,7 +2,7 @@
 
 ![banner](/iTask/photos/banner.png)
 
-## Activity
+## Activities
 
 * [Living](living)
 * [Journaling](journaling)

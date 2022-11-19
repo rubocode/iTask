@@ -8,6 +8,6 @@
 > **Steve Jobs**
 
 * [Concepts](concepts)
-* [Activity](activity)
+* [Activities](activities)
 * [Tools](tools)
 
