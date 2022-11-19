@@ -10,5 +10,5 @@ You have about a dozen lists of tasks at most to manage.  This is also reasonabl
 
 You’re keeping track of your bill payments, doctor’s appointments, taxes and tithes.  You have a list for each family member.  Perhaps, also a couple of lists of books — e.g. **Business** and **Technical** — you plan to read.
 
-Perhaps, you can manage with the categories **Family**, **Finances**, **Friends** and **Books**.  May be you will find a better set of categories that suit you better.
+Perhaps, you can manage with the categories **Family**, **Finances**, **Friends** and **Books**.  May be you will find a better set of categories that suits you better.
  
