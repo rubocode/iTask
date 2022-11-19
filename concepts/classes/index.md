@@ -2,7 +2,7 @@
 
 ![banner](/iTask/photos/banner.png)
 
-## Classification
+## Classes
 
 * [Category](category)
 * [List](list)

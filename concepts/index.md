@@ -5,5 +5,5 @@
 ## Concepts
 
 * [Things](things)
-* [Classification](classification)
+* [Classes](classes)
 * [Timing](timing)
