@@ -2,7 +2,7 @@
 
 ![banner](/iTask/photos/banner.png)
 
-## Journal Activity
+## Journal
 
 Journaling is quite useful in keeping track of your ideas, thought, meeting to telephone call details as necessary.  The journal can also used to collect notable quotes, web links and other minutiae.
 

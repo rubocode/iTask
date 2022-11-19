@@ -2,7 +2,7 @@
 
 ![banner](/iTask/photos/banner.png)
 
-## Planning Activity
+## Planning
 
 Planning is broad strokes.  It is a birds eye view.  That view is high level and reasonable stable.  It gives you a good grounding in what you do.  You see the bigger picture and it gives you the confidence to navigate the day to day.
 

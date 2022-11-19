@@ -2,7 +2,7 @@
 
 ![banner](/iTask/photos/banner.png)
 
-## Project Activity
+## Projects
 
 Project activity is fast moving and you need all the help from a tool to keep you productive.  Project activity often involves working with people other than yourself and that drives the choice of tools.
 
