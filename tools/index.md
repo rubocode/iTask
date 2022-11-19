@@ -9,5 +9,3 @@
 * [Notes](notes)
 * [Kanban](kanban)
 
-Guidance
-
