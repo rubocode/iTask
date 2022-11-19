@@ -4,8 +4,8 @@
 
 ## Activity
 
-* [Personal](personal)
+* [Living](living)
+* [Journaling](journaling)
 * [Planning](planning)
-* [Projects](projects)
-* [Journal](journal)
+* [Tracking](tracking)
 
