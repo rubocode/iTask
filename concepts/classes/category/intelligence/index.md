@@ -1,5 +1,5 @@
-> [classes](../)
+> [category](../)
 
 ![banner](/iTask/photos/banner.png)
 
-## Tag
+## Intelligence
