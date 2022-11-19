@@ -4,7 +4,7 @@
 
 ## Activities
 
-* [Capture](capture)
-* [Classify](classify)
-* [Review](review)
+* [Capturing](capturing)
+* [Classifying](classifying)
+* [Reviewing](reviewing)
 
