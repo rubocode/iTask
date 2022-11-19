@@ -9,7 +9,6 @@
 > **Steve Jobs**
 
 * [Concepts](concepts)
-* [Activities](activities)
 * [Tools](tools)
-* [Strategies](strategies)
+* [Activity](activity)
 
