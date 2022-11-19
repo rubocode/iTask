@@ -7,14 +7,14 @@
 > The first essentials, of course, is to know what you want.  
 > **Robert Collier**
 
-### Tasks
+#### Tasks
 
 A task is a thing you need to do.  Getting it done produces a result or an outcome.  It accomplishes something.
 
-### Events
+#### Events
 
 An event is a scheduled commitment of time — personal or otherwise.
 
-### Notes
+#### Notes
 
 A note is a written record of ideas, plans or collected information.
