@@ -4,14 +4,11 @@
 
 ## Reminders
 
-* Reminders or todo lists a straight forward way to keep track of tasks and tick them off as you finish them.
-* Most todo apps support multiple lists and often allow them to be grouped under categories.
-* They support #tags or labels so that you can search easier.
-* They support due dates and sometime a separate deadline.
-* They support repeatability so that you can get alerts for monthly bills for example.
+* A collection of lists of tasks.
+* A list may be grouped inside a category.
+* A subset of the tasks are active at the moment.
+* A task may have a due date and even a separate deadline.
+* A task may be set to repeat with a periodicity.
+* A task may have a value associated with it — _high_ or _low_.
+* A task may be flagged as important.
 
-### Strategies
-
-* It is a good idea to have a handful of high-level categories.
-* You may want a few lists inside each category depending on your needs.
-* The lesser the number of lists, the better.

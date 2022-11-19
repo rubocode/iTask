@@ -1,4 +1,3 @@
-> This is a work in progress…  
 > [ruboware](/) \| [contact](/ruchira-bomiriya)
 
 ![banner](/iTask/photos/banner.png)
@@ -9,6 +8,6 @@
 > **Steve Jobs**
 
 * [Concepts](concepts)
-* [Tools](tools)
 * [Activity](activity)
+* [Tools](tools)
 
