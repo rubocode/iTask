@@ -5,5 +5,5 @@
 ## Classes
 
 * [Categories](categories)
-* [Flags](flags)
 * [Tags](tags)
+* [Flags](flags)
