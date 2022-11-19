@@ -2,7 +2,7 @@
 
 ![banner](/iTask/photos/banner.png)
 
-## Category
+## Categories
 
 * [Business](business)
 * [Personal](personal)

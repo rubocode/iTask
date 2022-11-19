@@ -1,5 +1,5 @@
-> [classes](../)
+> [categories](../)
 
 ![banner](/iTask/photos/banner.png)
 
-## Flag
+## Intelligence

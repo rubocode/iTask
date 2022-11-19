@@ -1,6 +1,5 @@
-> [category](../)
+> [categories](../)
 
 ![banner](/iTask/photos/banner.png)
 
-## Personal
-
+## Social
