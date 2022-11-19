@@ -4,6 +4,8 @@
 
 ## Projects
 
+* [Things Example](things)
+
 Project activity is fast moving and you need all the help from a tool to keep you productive.  Project activity often involves working with people other than yourself and that drives the choice of tools.
 
 I am a consultant and most of my task management is personal.  I use the **Things** app from **Cultured Code**.  It evolved from a line of thinking called **Getting Things Done (GTD)** popularized by **David Allen**.
