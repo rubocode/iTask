@@ -5,5 +5,5 @@
 ## Things
 
 * [Tasks](tasks)
-* [Alerts](alerts)
+* [Events](events)
 * [Notes](notes)

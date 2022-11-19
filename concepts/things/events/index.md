@@ -2,4 +2,4 @@
 
 ![banner](/iTask/photos/banner.png)
 
-## Alerts
+## Events
