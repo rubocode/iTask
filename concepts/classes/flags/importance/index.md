@@ -4,7 +4,7 @@
 
 ## Importance
 
-A thing can be given and desired kind of importance.
+A thing can be given a desired kind of importance.
 
 In some situations, we simply go with the binary — it is either important or not important.
 
