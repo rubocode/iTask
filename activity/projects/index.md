@@ -4,14 +4,10 @@
 
 ## Projects
 
-* [Things Example](things)
+Project activity keeps track of numerous tasks organized using the notion of a project.  A project — for the purpose of tracking — is a list of tasks.
 
-Project activity is fast moving and you need all the help from a tool to keep you productive.  Project activity often involves working with people other than yourself and that drives the choice of tools.
+It is useful to track all your projects in one place inside one tool.  Your projects can be grouped under high level categories.  You can use the three categories **Business**, **Personal** and **Social** in most cases.
 
-I am a consultant and most of my task management is personal.  I use the **Things** app from **Cultured Code**.  It evolved from a line of thinking called **Getting Things Done (GTD)** popularized by **David Allen**.
+If you’re a consultant like me, you will have multiple clients.  You can have a category called **Consulting** which will house a project each for each active client.  Your own **Marketing**, **Finance** and **Operations** projects will continue to be grouped under **Business**.
 
-I sometimes miss the lack of Kanban like task movement.  There are other tools which combine both GTD and Kanban — but does not meet the simplicity, elegance and sophistication criteria up to expectations.
-
-Many organization use Kanban for collaboration.  **Trello** —  originally built by **Joel Spolsky** and his team — was acquired by **Atlassian** who also have a much heavier enterprise Kanban app called **Jira**.
-
-My current needs are nicely met by Things.
+This is a baseline.  Once you realize that less hassle is better, you will settle on the simplest arrangement of projects that works for you.

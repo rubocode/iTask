@@ -4,8 +4,6 @@
 
 ## Planning
 
-* [Catban Example](catban)
-
 Planning is broad strokes.  It is a birds eye view.  That view is high level and reasonably stable.  It gives you a good grounding in what you do.  You see the bigger picture and it gives you the confidence to navigate the day to day.
 
 The best tool for this that I have found is a **Kanban Board**.  I use four columns — **Done**, **Now**, **Next** and **Later**.  I don’t use any timing, estimates or any automation.  I place high level tasks on cards and move them around the four columns.
