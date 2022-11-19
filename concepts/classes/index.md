@@ -6,5 +6,5 @@
 
 * [Category](category)
 * [List](list)
-* [Flag](flag)
 * [Tag](tag)
+* [Flag](flag)
