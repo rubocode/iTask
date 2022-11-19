@@ -5,6 +5,7 @@
 ## Categories
 
 * [Business](business)
+* [Intelligence](intelligence)
 * [Personal](personal)
 * [Social](social)
 
