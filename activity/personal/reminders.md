@@ -4,4 +4,4 @@
 
 ## Reminders Example
 
-![reminders](/iTask/photos/reminder.png)
+![reminders](/iTask/photos/reminders.png)
