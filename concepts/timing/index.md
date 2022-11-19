@@ -5,5 +5,5 @@
 ## Timing
 
 * [Sequence](sequence)
-* [Work In Progress](wip)
 * [Deadline](deadline)
+* [Active](active)
