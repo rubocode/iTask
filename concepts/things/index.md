@@ -4,8 +4,8 @@
 
 ## Things
 
-> Make it as simple as possible, but no simpler.  
-> **Albert Einstein**
+> The first essentials, of course, is to know what you want.  
+> **Robert Collier**
 
 ### Tasks
 
