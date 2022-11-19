@@ -2,7 +2,7 @@
 
 ![banner](/iTask/photos/banner.png)
 
-## Kanban
+## Kanban Boards
 
 * A board contains a handful of columns.
 * A column is usually related to a sequential ordering of cards.

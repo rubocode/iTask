@@ -7,7 +7,7 @@
 * [Reminders](reminders)
 * [Calendars](calendars)
 * [Notes](notes)
-* [Kanban](kanban)
+* [Boards](boards)
 
 #### Guidance
 
