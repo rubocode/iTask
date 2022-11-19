@@ -8,7 +8,7 @@ Managing life activity boils down to keeping track of your personal commitments.
 
 You have about a dozen lists of tasks at most to manage.  This is also reasonably slow moving.  This is your own personal sphere. This stuff is about you and your family.  Your close friends are in your personal sphere while others belong in the business and social spheres.  It is wise not to mix it up.
 
-You’re keeping track of your bill payments, doctor’s appointments, taxes and tithes.  You have a list for each family member.  Perhaps, also a couple of lists of books — e.g. **Business** and **Technical** — you plan to read.
+You’re keeping track of your bill payments, doctor’s appointments, outings and vacations.  You have a list for each family member.  Perhaps, also a couple of lists of books — e.g. **Business** and **Technical** — you plan to read.
 
 Perhaps, you can manage with the categories **Family**, **Finances**, **Friends** and **Books**.  May be you will find a better set of categories that suits you better.
  
