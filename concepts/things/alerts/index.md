@@ -1,5 +1,5 @@
-> [concepts](./)
+> [things](../)
 
 ![banner](/iTask/photos/banner.png)
 
-## Effort
+## Alerts

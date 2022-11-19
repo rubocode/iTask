@@ -4,7 +4,6 @@
 
 ## Concepts
 
-* [Definition](definition)
+* [Things](definition)
 * [Classification](classification)
 * [Timing](timing)
-* [Notification](notification)

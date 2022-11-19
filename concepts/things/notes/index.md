@@ -1,5 +1,5 @@
-> [processes](../)
+> [things](../)
 
 ![banner](/iTask/photos/banner.png)
 
-## Tracking
+## Notes

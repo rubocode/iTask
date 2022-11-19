@@ -1,5 +1,7 @@
-> [concepts](./)
+> [things](../)
 
 ![banner](/iTask/photos/banner.png)
 
-## Outcome
+## Tasks
+
+* Outcome

@@ -5,8 +5,6 @@
 ## Processes
 
 * [Capture](capture)
-* [Classification](classification)
-* [Planning](planning)
-* [Tracking](tracking)
+* [Classify](classify)
 * [Review](review)
 
