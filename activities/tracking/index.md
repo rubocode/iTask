@@ -10,4 +10,4 @@ It is useful to track all your projects in one place inside one tool.  Your proj
 
 If you’re a consultant like me, you will have multiple clients.  You can have a category called **Consulting** which will house a project each for each active client.  Your own **Marketing**, **Finance** and **Operations** projects will continue to be grouped under **Business**.
 
-This is a baseline.  Once you realize that less hassle is better, you will settle on the simplest arrangement of projects that works for you.  Anything less simple will not give you optimal results.
+This is a baseline.  Once you realize that less hassle is better, you will settle on the simplest arrangement of projects that works for you.  Anything less simple will also prove unsuitable.  You need to find your optimal combination.
