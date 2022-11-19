@@ -4,6 +4,8 @@
 
 ## Personal
 
+* [Reminders Example](reminders)
+
 Personal activity boils down to keeping track of reminders in an organized manner.  Anything more complicated is project activity and the way it is handled is more involved.
 
 I use the **Reminders** app to keep track of these. The categories **Family**, **Finances**, **Society** and **Books** are often adequate.
