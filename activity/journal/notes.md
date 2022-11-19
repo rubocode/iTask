@@ -2,6 +2,6 @@
 
 ![banner](/iTask/photos/banner.png)
 
-## Reminders Example
+## Notes Example
 
 ![notes](/iTask/photos/notes.png)
