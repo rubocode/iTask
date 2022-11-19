@@ -4,7 +4,9 @@
 
 ## Activities
 
-* [Capturing](capturing)
+* [Organizing](organizing)
 * [Classifying](classifying)
+* [Capturing](capturing)
+* [Executing](executing)
 * [Reviewing](reviewing)
 
