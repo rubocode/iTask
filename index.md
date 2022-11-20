@@ -10,4 +10,5 @@
 * [Concepts](concepts)
 * [Activities](activities)
 * [Tools](tools)
+* [Strategies](strategies)
 
