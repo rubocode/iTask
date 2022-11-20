@@ -13,4 +13,3 @@ In most cases, you can use the four columns — **Done**, **Now**, **Next** and 
 You can juggle the sequencing — priorities — at a high level and visualize them from the mountain top.  You will do this at any given time when you balance priorities as well as in facing new challenges that have an impact on the plan.
 
 You can use categories and tags as you please, but often they constrain your flexibility.  Use your judgement.
-

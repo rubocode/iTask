@@ -4,6 +4,7 @@
 
 ## Classes
 
+* [Spheres](spheres)
 * [Categories](categories)
 * [Tags](tags)
 * [Flags](flags)
