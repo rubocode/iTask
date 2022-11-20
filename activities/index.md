@@ -7,4 +7,4 @@
 * [Living](living)
 * [Journaling](journaling)
 * [Planning](planning)
-* [Tracking](tracking)
+* [Working](working)

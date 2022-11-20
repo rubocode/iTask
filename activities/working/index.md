@@ -2,9 +2,9 @@
 
 ![banner](/iTask/photos/banner.png)
 
-## Tracking
+## Working
 
-You keep track of numerous tasks using the notion of a project.  A project — for the purpose of tracking — is a list of tasks.
+You keep track of your work using the notion of a project.  A project — for this purpose — is simply a list of tasks.
 
 It is useful to track all your projects in one place inside one tool.  Your projects can be grouped under high level categories.  You can use the three categories **Business**, **Personal** and **Social** in most cases.
 
