@@ -1,4 +1,4 @@
-> [strategies](../)
+> [strategies](./)
 
 ![banner](/iTask/photos/banner.png)
 
