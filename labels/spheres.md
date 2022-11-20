@@ -4,9 +4,7 @@
 
 ## Spheres
 
-* Business
-* Personal
-* Social
+| Business | Personal | Social |
 
 * There are three primary spheres of operation for an individual.
 * You may introduce a new sphere when it allows a better organization of your activity.
