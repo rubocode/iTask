@@ -2,9 +2,9 @@
 
 ![banner](/iTask/photos/banner.png)
 
-## Kanban Boards
+## Kanbans
 
-* A board contains a handful of columns.
+* A kanban is a board that contains a handful of columns.
 * A column is usually related to a sequential ordering of cards.
 * A tasks is introduced into a columns, move around until it gets done and later archived or discarded.
 * A typical arrangement of columns is the trio **Todo**, **Doing** and **Done**.

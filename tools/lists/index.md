@@ -2,9 +2,9 @@
 
 ![banner](/iTask/photos/banner.png)
 
-## Reminders
+## Lists
 
-* A collection of lists of tasks.
+* A list is a collection of tasks.
 * A list may be grouped inside a category.
 * A subset of the tasks are active at the moment.
 * A task may have a **due date** and even a distinct **deadline**.

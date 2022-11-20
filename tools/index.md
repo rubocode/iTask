@@ -4,10 +4,10 @@
 
 ## Tools
 
-* [Reminders](reminders)
+* [Lists](lists)
 * [Calendars](calendars)
 * [Notes](notes)
-* [Boards](boards)
+* [Kanbans](kanbans)
 
 #### Guidance
 
