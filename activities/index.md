@@ -5,6 +5,6 @@
 ## Activities
 
 * [Living](living)
-* [Journaling](journaling)
 * [Planning](planning)
 * [Working](working)
+* [Logging](logging)
