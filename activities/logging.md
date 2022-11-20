@@ -1,4 +1,4 @@
-> [activities](../)
+> [activities](./)
 
 ![banner](/iTask/photos/banner.png)
 

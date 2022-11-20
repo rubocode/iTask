@@ -4,8 +4,8 @@
 
 ## Tools
 
+* [Kanbans](kanbans)
 * [Lists](lists)
 * [Calendars](calendars)
-* [Notes](notes)
-* [Kanbans](kanbans)
+* [Folders](notes)
 

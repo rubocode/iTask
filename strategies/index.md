@@ -5,5 +5,6 @@
 ## Strategies
 
 * [Spheres](spheres)
+* [Categories](categories)
 * [Apps](apps)
 * [Simplicity](simplicity)
