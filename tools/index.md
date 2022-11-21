@@ -4,6 +4,6 @@
 
 ## Tools
 
-| [Kanbans](kanbans) | [Folders](folders) |
-| [Lists](lists) | [Calendars](calendars) |
+| [Kanbans](kanbans) | [Lists](lists) |
+| [Calendars](calendars) | [Folders](folders) |
 
