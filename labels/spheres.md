@@ -4,9 +4,9 @@
 
 ## Spheres
 
-| Business | Personal | Social |
+| Business | Personal | Social | Work | Home |
 
-There are three primary spheres of operation for an individual.
+There are three primary spheres of operation for an individual — **business**, **personal** and **social**.  Some people prefer to use a simpler arrangement with **work** and **home**.  
 
 ### Business
 * The business sphere is concerned with economic activity.

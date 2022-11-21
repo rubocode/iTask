@@ -6,6 +6,7 @@
 
 Managing life activity boils down to keeping track of your personal commitments.  This is the essential core activity to keep your life functional, organized and on a path of progress.
 
-This is your own personal sphere. This stuff is about you and your family.  You’re keeping track of your bill payments, doctor’s appointments, outings and vacations.
+This is your own personal sphere. This stuff is about you and your family.  You’re keeping track of your bill payments, doctor’s appointments, outings, vacations and spiritual activities.
 
-Often a handful of categories are enough to divide up the different areas of activity.  Living activity is somewhat slow moving.  Perhaps, you can start with the categories **Family**, **Finances** and **Friends** and add a couple more as needed.  May be you have a better organization that suits your needs.
+Often a handful of buckets are enough to divide up the different areas of activity.  This activity usually is rather stable, predictable and slow moving.  Perhaps, you can start with the categories **Family**, **Finances** and **Friends** and add a couple more as needed.  Give it a bit of thought.
+
