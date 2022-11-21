@@ -17,7 +17,7 @@
 * This is the sphere where your categories are most dynamic.
 * A project might get its own category and will vanish after it is completed.
 * It all depends on the specific nature of your work.
-* The owner of a business might decide to use **marketing**, **finance** and **operations** as high level categories and they will remain stable.
+* The owner of a business might decide to use **Marketing**, **Finance** and **Operations** as high level categories and they will remain stable.
 * It all depends on how you slice the cake.
 
 ### Personal
@@ -29,5 +29,5 @@
 ### Social
 
 * The categories here will correspond to how you organize your social activity.
-* You will often have a **friends** category.
+* You will often have a **Friends** category.
 * You will also have separate categories for your religious, political or services to humanity affiliations.
