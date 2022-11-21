@@ -12,3 +12,4 @@
 * You could also use a card flow from right to left with the columns as **Done**, **Now**, **Next** and **Later**.
 * You need to limit the number of cards to about a dozen and keep it very high level.
 * Keep it abstract, simple and flexible.
+* Kanbans are very effective at helping you manage [visions](/iTask/things/visions).

@@ -9,3 +9,4 @@
 * A vision is a loosely coupled combination of moving parts.
 * A vision facilitates strategy and planning.  Strategy is creative problem solving.  Planning is the organization of execution.
 * A well designed vision helps you be flexible and endure unforeseen challenges.
+* [Kanban](/iTask/tools/kanbans) tools help you manage visions effectively.
