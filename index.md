@@ -1,4 +1,4 @@
-> [ruboware](/) \| [contact](/ruchira-bomiriya)
+> [ruboware](/) &bull; [contact](/ruchira-bomiriya)
 
 ![banner](/iTask/photos/banner.png)
 
