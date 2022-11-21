@@ -5,6 +5,6 @@
 ## Simplicity
 
 * Use a separate app particularly suited for each kind of thing.
-* Use spheres as top level categories.
-* Use only a handful of categories — at most a dozen.
-* Use categories in a consistent manner across your apps.
+* You may use sphere names as top level bucket names.
+* Use only a handful of buckets, at most a dozen.
+* Use bucket names in a consistent manner across your apps.
