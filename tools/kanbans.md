@@ -13,4 +13,4 @@
 * You need to limit the number of cards to about a dozen and keep it very high level.
 * Kanbans are very effective at helping you [plan](/iTask/activities/planning) with [visions](/iTask/things/visions).
 * Keep it abstract, simple and flexible.
-* Here is an [example](/iTask/photos/catban.png).
+* Here is an [example](/iTask/examples/catban).
