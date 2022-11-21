@@ -4,7 +4,6 @@
 
 ## Things
 
-* [Visions](visions)
-* [Tasks](tasks)
-* [Events](events)
-* [Notes](notes)
+| [Visions](visions) | [Tasks](tasks) |
+| [Events](events) | [Notes](notes) |
+

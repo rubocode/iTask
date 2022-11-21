@@ -4,7 +4,5 @@
 
 ## Examples
 
-* [Catban](catban)
-* [Reminders](reminders)
-* [Calendar](calendar)
-* [Notes](notes)
+| [Catban](catban) | [Reminders](reminders) |
+| [Calendar](calendar) | [Notes](notes) |

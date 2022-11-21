@@ -4,7 +4,6 @@
 
 ## Strategies
 
-* [Spheres](spheres)
-* [Categories](categories)
-* [Apps](apps)
-* [Simplicity](simplicity)
+| [Spheres](spheres) | [Buckets](buckets) |
+| [Apps](apps) | [Simplicity](simplicity) |
+
