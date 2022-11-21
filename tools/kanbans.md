@@ -1,4 +1,4 @@
-> [tools](../)
+> [tools](./)
 
 ![banner](/iTask/photos/banner.png)
 
