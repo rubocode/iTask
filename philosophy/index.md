@@ -4,4 +4,3 @@
 
 ## Philosophy
 
-* [Mindsets](mindsets)
