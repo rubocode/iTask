@@ -15,5 +15,6 @@ Employees get paid for time.  The longer they spend on a problem, the more they 
 
 There are all kinds of magic that entrepreneurs use to motivate their employees to produce faster, better and cheaper solutions.  They end up doing this by psychological manipulation instead of genuine reward structures.
 
-Then they blame each other.  Class struggle!  Karl Marx smirks from his corner in hell.
+Then they blame each other.  Class struggle!  Karl Marx smirks from his corner in hell.  Task management is for masters, time management is for slaves.
+
 
