@@ -4,8 +4,7 @@
 
 ## Mindsets
 
-> Your time is limited.  
-> Don't waste it living someone else's life.  
+> Your time is limited.  Don't waste it living someone else's life.  
 > **Steve Jobs**
 
 The way you look at life drives the way you live it.  For our purposes here, we consider two mindsets — an entrepreneur mindset and an employee mindset.
