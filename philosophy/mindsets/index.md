@@ -8,9 +8,9 @@ The way you look at life drives the way you live it.  For our purposes here, we 
 
 Entrepreneurs get paid for solving a problem, doing it better than others and at lower cost in both time and money.  They look at life from a task management point of view.
 
-Employees get paid for time.  The longer they spend on a problem, the more they get paid.  They are not incentivized to produce better quality solutions because of the very nature of the earnings philosophy.
+Employees get paid for time.  The longer they spend on a problem, the more they get paid.  They are not incentivized to produce better quality solutions because of the very nature of the earnings philosophy.  They look at life from a time management point of view.
 
-There all kinds of magic that entrepreneurs use to motivate their employees to produce faster, better and cheaper solutions.  They end up doing this by psychological manipulation.
+There are all kinds of magic that entrepreneurs use to motivate their employees to produce faster, better and cheaper solutions.  They end up doing this by psychological manipulation instead of genuine reward structures.
 
 Then they blame each other.  Class struggle!  Karl Marx smirks from his corner in hell.
 
