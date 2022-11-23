@@ -11,6 +11,6 @@
 * A typical arrangement of columns is the trio **Todo**, **Doing** and **Done**.
 * You could also use a card flow from right to left with the columns as **Done**, **Now**, **Next** and **Later**.
 * You need to limit the number of cards to about a dozen and keep it very high level.
-* Kanbans are very effective at helping you [plan](/iTask/activities/planning) with [visions](/iTask/things/visions).
+* Kanbans are very effective at helping you [plan](/iTask/framework/activities/planning) with [visions](/iTask/framework/things/visions).
 * Keep it abstract, simple and flexible.
-* Here is an [example](/iTask/examples/catban).
+* Here is an [example](/iTask/framework/examples/catban).
