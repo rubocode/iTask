@@ -9,5 +9,6 @@
 > **Steve Jobs**
 
 * [Introduction](introduction)
+* [Philosophy](philosophy)
 * [Framework](framework)
 
