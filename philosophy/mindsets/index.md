@@ -4,6 +4,10 @@
 
 ## Mindsets
 
+> Your time is limited.  
+> Don't waste it living someone else's life.  
+> **Steve Jobs**
+
 The way you look at life drives the way you live it.  For our purposes here, we consider two mindsets — an entrepreneur mindset and an employee mindset.
 
 Entrepreneurs get paid for solving a problem, doing it better than others and at lower cost in both time and money.  They look at life from a task management point of view.
