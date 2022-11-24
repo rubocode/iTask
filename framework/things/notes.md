@@ -4,6 +4,10 @@
 
 ## Notes
 
+> You don’t need to take notes.  
+> If it’s important, you’ll remember it.  
+> **Steve Jobs**
+
 * Notes facilitate our thinking process.
 * We keep track of our ideas, insights and third party information relevant to our activity.
 * We keep notes on our visions, tasks and events.
