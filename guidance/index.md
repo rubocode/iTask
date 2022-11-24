@@ -8,8 +8,8 @@
 > **Steve Jobs**
 
 * [Think on Paper](paper)
-* [Keep it Simple](simple)
 * [Focus on the Outcome](outcome)
+* [Keep it Simple](simple)
 * [Follow your Heart](heart)
 * [Keep the Faith](faith)
 
