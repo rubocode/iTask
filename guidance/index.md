@@ -4,7 +4,7 @@
 
 ## Guidance
 
-> Don't let the noise of other's opinions drown out your own inner voice.  
+> Don't let the noise of others’ opinions drown out your own inner voice.  
 > **Steve Jobs**
 
 * [Think on Paper](paper)
