@@ -1,6 +1,5 @@
-> [home](../)
+> [guidance](./)
 
 ![banner](/iTask/photos/banner.png)
 
-## Philosophy
-
+## Think on Paper

@@ -5,10 +5,10 @@
 
 ## Intelligent Task Management
 
-> Life can be much broader once you discover one simple fact.  Everything around you that you call life was made up by people no smarter than you.  
+> Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work.  
 > **Steve Jobs**
 
 * [Introduction](introduction)
-* [Philosophy](philosophy)
 * [Framework](framework)
+* [Guidance](guidance)
 

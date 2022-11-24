@@ -4,7 +4,7 @@
 
 ## iTask Framework
 
-> Simple can be harder than complex: You have to work hard to get your thinking clean to make it simple. But it's worth it in the end because once you get there, you can move mountains.  
+> Life can be much broader once you discover one simple fact.  Everything around you that you call life was made up by people no smarter than you.  
 > **Steve Jobs**
 
 | [Things](things) | [Labels](labels) | [Activities](activities) |
