@@ -1,5 +1,4 @@
 > [ruboware](/) &bull; [contact](/ruchira-bomiriya)
-> &bull; Work in progress…
 
 ![banner](/iTask/photos/banner.png)
 
