@@ -1,6 +1,6 @@
 > [guidance](./)
 
-![banner](/iTaks/photos/banner.png)
+![banner](/iTask/photos/banner.png)
 
 ## Keep it Simple
 
