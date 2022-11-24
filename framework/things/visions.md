@@ -4,9 +4,9 @@
 
 ## Visions
 
-> Your vision will become clear only when you can look into your own heart.  
-> Who looks outside dreams; who looks inside awakes.  
-> **Carl Gustav Jung***
+> If you are working on something exciting that you really care about, you don't have to be pushed.  
+> The vision pulls you.  
+> **Steve Jobs**
 
 * Visions provide high level direction and guidance.  They provide purpose to activity.  You don’t accomplish visions, you pursue them.
 * A vision is not an objective, it gives birth to multiple objectives.  It provides clarity from the mountain top.
