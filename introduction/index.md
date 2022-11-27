@@ -4,7 +4,7 @@
 
 ## Introduction
 
-> People don’t know what they want until you show it to them.  
+> The doers are the major thinkers.  The people that really create the things that change this industry are both the thinker and doer in one person.  
 > **Steve Jobs**
 
 Many believe that the process of managing your life is one of managing time.  Unfortunately, you can’t manage time.  It just passes by whether you like it or not.
