@@ -8,7 +8,7 @@
 > It comes down to trying to expose yourself to the best things that humans have done and then trying to bring those things into what you’re doing.  
 > **Steve Jobs**
 
-| [Catban](catban) | [Reminders](reminders) |
+| [Kanban](kanban) | [Reminders](reminders) |
 | [Calendar](calendar) | [Notes](notes) |
 
 The holy grail in task management is figuring out the right set of buckets for yourself.  You do this by starting at a reasonable place and experimenting.  The name of the bucket gives it meaning.  This matters when you have a thing and want to figure out which bucket you will use for that.
