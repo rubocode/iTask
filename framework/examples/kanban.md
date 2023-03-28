@@ -2,6 +2,6 @@
 
 ![banner](/iTask/photos/banner.png)
 
-## Catban
+## Kanban
 
-![catban](/iTask/photos/catban.png)
+![kanban](/iTask/photos/kanban.png)
