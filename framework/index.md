@@ -8,6 +8,7 @@
 > **Steve Jobs**
 
 | [Things](things) | [Labels](labels) | [Activities](activities) |
-| [Tools](tools) | [Strategies](strategies) | [Examples](examples) |
+| [Tools](tools) | [Strategies](strategies) ||
+
 
 
