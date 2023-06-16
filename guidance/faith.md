@@ -4,7 +4,7 @@
 
 ## Keep the Faith
 
-> Sometimes life hits you in the head with a brick.  Don’t lose faith.  
+> Sometimes life hits you in the head with a brick.  Don’t lose faith!  
 > **Steve Jobs**
 
 When you follow your heart with an open mind, you will learn along the way.  You may even find out that you were on a wild goose chase.  But you needed to learn the lesson first hand so that you become wiser for it.
