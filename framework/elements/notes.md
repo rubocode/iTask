@@ -4,7 +4,7 @@
 
 ## Notes
 
-> You don’t need to take notes.  
+> You don’t need to take notes.
 > If it’s important, you’ll remember it.  
 > **Steve Jobs**
 
