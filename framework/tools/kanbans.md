@@ -4,7 +4,7 @@
 
 ## Kanbans
 
-> People judge you on your performance, so focus on the outcome.  
+> For you to sleep well at night, the aesthetic, the quality, has to be carried all the way through.    
 > **Steve Jobs**
 
 * A kanban is a board that contains a handful of columns.

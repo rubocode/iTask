@@ -4,7 +4,7 @@
 
 ## Focus on the Outcome
 
-> People think focus means saying yes to the thing you’ve got to focus on.  It means saying no to the hundred other good ideas that there are.  You have to pick carefully.  
+> People judge you on your performance, so focus on the outcome.  
 > **Steve Jobs**
 
 When you decide you want something, you have to be very clear what that thing is.  You also should know why you want it.  For example, let’s say you want to develop a web application and you don’t know any programming.  Now the outcome you want is a web app.
