@@ -4,6 +4,9 @@
 
 ## Kanbans
 
+> People judge you on your performance, so focus on the outcome.  
+> **Steve Jobs**
+
 * A kanban is a board that contains a handful of columns.
 * A columns will contain a set of cards.
 * A card will have a title and a handful of bullet points.

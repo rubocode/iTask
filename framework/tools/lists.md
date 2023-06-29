@@ -4,6 +4,9 @@
 
 ## Lists
 
+> We are very careful about what features we add because we can’t take them away.  
+> **Steve Jobs**
+
 * A list is a bucket for tasks.
 * There are various tools of different sophistication that can manage lists of tasks.
 * Apple’s default app _Reminders_ is simple, elegant and — at the same time — sophisticated.
