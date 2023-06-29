@@ -4,9 +4,9 @@
 
 ## Facets
 
-| Business | Personal | Social | Work | Home |
+| _Business_ | _Personal_ | _Social_ | _Work_ | _Home_ |
 
-There are three primary facets in the life of an individual — **business**, **personal** and **social**.  Some people prefer to use a simpler arrangement with **work** and **home**.  
+There are three primary facets in the life of an individual — _Business_, _Personal_ and _Social_.  Some people prefer to use a simpler arrangement with _Work_ and _Home_.  
 
 ### Business
 * The business facet is concerned with economic activity.

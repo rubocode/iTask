@@ -16,7 +16,7 @@
 ### Business
 
 * This is a dynamic sphere where your performance is crucial.
-* **Marketing**, **Finance** and **Operations** are the primary functions of a business.
+* _Marketing_, _Finance_ and _Operations_ are the primary functions of a business.
 * You may decide to have three buckets dedicated to the primary functions.
 * Alternatively, you may decide to go with project based buckets.
 * It all depends on the specific nature of your work.
@@ -31,5 +31,5 @@
 ### Social
 
 * These buckets help you your social activity.
-* You will have a bucket for your **Friends**.
+* You will have a bucket for your _Friends_.
 * You may also have separate buckets for your religious, political or services to humanity affiliations.

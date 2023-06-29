@@ -8,5 +8,5 @@ Managing life activity boils down to keeping track of your personal commitments.
 
 This is your own personal sphere. This stuff is about you and your family.  You’re keeping track of your bill payments, doctor’s appointments, outings, vacations and spiritual activities.
 
-Often a handful of buckets are enough to divide up the different areas of activity.  This activity usually is rather stable, predictable and slow moving.  Perhaps, you can start with the categories **Family**, **Finances** and **Friends** and add a couple more as needed.  Give it a bit of thought.
+Often a handful of buckets are enough to divide up the different areas of activity.  This activity usually is rather stable, predictable and slow moving.  Perhaps, you can start with the categories _Family_, _Finances_ and _Friends_ and add a couple more as needed.  Give it a bit of thought.
 
