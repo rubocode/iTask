@@ -2,7 +2,7 @@
 
 ![banner](/iTask/photos/banner.png)
 
-## iTask Framework
+## Framework
 
 > Life can be much broader once you discover one simple fact.  Everything around you that you call life was made up by people no smarter than you.  
 > **Steve Jobs**
