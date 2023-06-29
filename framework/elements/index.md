@@ -10,3 +10,5 @@
 | [Visions](visions) | [Goals](goals) | [Tasks](tasks) |
 | [Events](events) | [Notes](notes) |
 
+Elements are the building blocks of the task management domain.  We only have less than a half a dozen of them.  Aren’t we lucky!
+
