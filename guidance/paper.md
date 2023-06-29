@@ -4,8 +4,7 @@
 
 ## Think on Paper
 
-> The doers are the major thinkers.
-> The people that really create the things that change this industry are both the thinker and doer in one person.  
+> Think different!  
 > **Steve Jobs**
 
 Things are intertwined in the mind.  When an intention is ignited, you may choose to act on it or not.  Sometimes, this decision may be trivial.  Sometimes, it may reflect a very conscious and deliberate choice.  Even when it is a negative choice, it would be worth it to write it down as a note on your log.  That gives your mind closure.
