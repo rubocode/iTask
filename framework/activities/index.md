@@ -5,5 +5,5 @@
 ## Activities
 
 | [Living](living) | [Working](working) |
-| [Planning](planning) | [Logging](logging) |
+| [Planning](planning) | [Tracking](tracking) |
 
