@@ -7,7 +7,8 @@
 > I'm as proud of many of the things we haven't done as the things we have done.  
 > **Steve Jobs**
 
-| _Business_ | _Personal_ | _Social_ | _Work_ | _Home_ |
+| _Business_ | _Personal_ | _Social_ |
+| _Work_ | _Home_ ||
 
 There are three primary facets in the life of an individual — _Business_, _Personal_ and _Social_.  Some people prefer to use a simpler arrangement with _Work_ and _Home_.  
 
