@@ -4,7 +4,7 @@
 
 ## Calendars
 
-> The most precious thing that we all have with us is time.  
+> The most precious thing that we all have with us is time.  
 > **Steve Jobs**
 
 * A calendar is a bucket for events.
