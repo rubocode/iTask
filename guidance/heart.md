@@ -4,8 +4,7 @@
 
 ## Follow your Heart
 
-> The only way to do great work is to love what you do.
-> If you haven't found it yet, keep looking.  Don't settle.  
+> Have the courage to follow your heart and intuition. They somehow know what you truly want to become.  
 > **Steve Jobs**
 
 When you try to plan your life out on paper, you will have to confront hard realities.  You will have to ask tough questions.  What are you doing on this planet anyway?  What should I do with my life?  Should I give priority to finding that out or should I just chase money for now?  What will make me happy?  When will I stop running the rat race?  Is there an alternative? How do I find out?  Will someone else’s answers apply to me?
