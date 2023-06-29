@@ -4,6 +4,9 @@
 
 ## Facets
 
+> Things don’t have to change the world to be important.  
+> **Steve Jobs**
+
 * You operate in three primary facets of life — _Business_, _Personal_ and _Social_.
 * Some people manage with just _Work_ and _Home_.
 * It helps to use a consistent color code for the facets: _blue_ for _Business_, _green_ for _Personal_ and _purple_ for _Social_.
