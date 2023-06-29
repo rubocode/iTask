@@ -1,4 +1,4 @@
-> [things](./)
+> [elements](./)
 
 ![banner](/iTask/photos/banner.png)
 

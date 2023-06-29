@@ -2,8 +2,8 @@
 
 ![banner](/iTask/photos/banner.png)
 
-## Things
+## Elements
 
-| [Visions](visions) | [Tasks](tasks) |
+| [Visions](visions) | [Goals](goals) | [Tasks](tasks) |
 | [Events](events) | [Notes](notes) |
 
