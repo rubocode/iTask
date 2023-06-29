@@ -8,4 +8,5 @@
 > **Steve Jobs**
 
 * Events allow us to make explicit time commitments as part of accomplishing tasks — ultimately, to fulfill visions.
-* Events let us manage time.
+* Events help us organize and schedule our activity.
+
