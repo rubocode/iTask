@@ -4,6 +4,10 @@
 
 ## Tracking
 
+> You can't connect the dots looking forward.
+> You can only connect them looking backwards.  
+> **Steve Jobs**
+
 It is quite useful to keep track of thoughts, ideas,  observations and records of meetings and conversations as deemed necessary.  You can also collect notable quotes, web links and other minutiae that you would otherwise forget.  You log these in a journal or a notes app.
 
 Your notes are organized using folders which are essentially buckets.  Each entry has a title and content and optionally multiple tags.  It also has two timestamps — creation date and modified date.

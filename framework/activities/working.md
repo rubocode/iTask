@@ -4,6 +4,9 @@
 
 ## Working
 
+> Real artists ship!  
+> **Steve Jobs**
+
 You keep track of your work using buckets.  These buckets may correspond to buckets or clients.
 
 If you’re a consultant like me, you will have multiple clients.  You may decide to define a facet called _Consulting_ and house your client buckets there.  Alternatively, you may define a facet called _Work_ and house your projects there.
