@@ -4,7 +4,7 @@
 
 ## Planning
 
-> In the broadest context, the goal is to seek enlightenment however you define it.  
+> In the broadest context, the goal is to seek enlightenment — however you define it.  
 > **Steve Jobs**
 
 Planning is done in broad strokes.  It is a bird’s eye view.  That view is high level and it helps if you keep it reasonably stable.  It gives you a good grounding in what you do.  You see the big picture and it gives you the confidence to navigate the day to day.
