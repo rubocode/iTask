@@ -4,6 +4,6 @@
 
 ## Activities
 
-| [Living](living) | [Working](working) |
-| [Planning](planning) | [Tracking](tracking) |
+| [Living](living) | [Planning](planning) |
+| [Working](working) | [Tracking](tracking) |
 
