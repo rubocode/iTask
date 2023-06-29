@@ -4,6 +4,9 @@
 
 ## Tags
 
+> You have to pick carefully!  
+> **Steve Jobs**
+
 * Tags are used to label elements.
 * A thing can have multiple tags attached to it.
 * The same tag can be used across to label things across multiple buckets.

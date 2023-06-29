@@ -4,6 +4,9 @@
 
 ## Buckets
 
+> Innovation is saying no to a thousand things.  
+> **Steve Jobs**
+
 * Buckets where things are stored.
 * A given thing can physically reside in only one bucket.
 * Lists, folders and projects are such buckets.
