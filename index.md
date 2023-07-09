@@ -1,4 +1,4 @@
-> [ruboware](/) &bull; [profile](/profile)
+> [ruboware](/)
 
 ![banner](/iTask/photos/banner.png)
 
