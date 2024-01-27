@@ -8,6 +8,6 @@
 > **Steve Jobs**
 
 * Use a separate app particularly suited for each kind of element.
-* You may use sphere names as top level bucket names.
+* You may use facet names as top level bucket names.
 * Use only a handful of buckets, at most a dozen.
 * Use bucket names in a consistent manner across your apps.
