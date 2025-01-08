@@ -1,4 +1,4 @@
-> [home](/innovation)
+> [home](/learning/design/innovation)
 
 ![banner](/iTask/photos/banner.png)
 
