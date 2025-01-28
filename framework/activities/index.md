@@ -9,7 +9,5 @@
 
 * [Living](living)
 * [Planning](planning)
-* [Working](working)
 * [Tracking](tracking)
-
-
+* [Working](working)
