@@ -1,6 +1,4 @@
 > [home](/)
-> &bull; [computing](/computing)
-> &bull; [innovation](/innovation)
 
 ![banner](/iTask/photos/banner.png)
 
